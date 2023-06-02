@@ -37,7 +37,7 @@ https://drive.google.com/file/d/17JX5IxqfFoUX1fUDUeiKgCVowgTLZcFO/view?usp=shari
 
 ![html screenshot](./images/Screenshot%202023-06-02%20at%206.13.32%20PM.png)
 
-![testing screenshot](./images/Screenshot-test.png)
+![testing screenshot](./images/Screenshot%202023-06-02%20at%207.01.29%20PM.png)
 
 ## Credits
 
