@@ -33,7 +33,9 @@ This application has dependencies: inquirer and jest.
 
 Instructions are listed above. Refer to screenshots for demo of application and tests.
 
-![html screenshot](./images/Screenshot-html.png)
+https://drive.google.com/file/d/17JX5IxqfFoUX1fUDUeiKgCVowgTLZcFO/view?usp=sharing
+
+![html screenshot](./images/Screenshot%202023-06-02%20at%206.13.32%20PM.png)
 
 ![testing screenshot](./images/Screenshot-test.png)
 
@@ -49,7 +51,7 @@ No license used.
 
 ## How to Contribute
 
-If you would like to contribute please don't hesitate to contact me 
+If you would like to contribute please don't hesitate to contact me.
 
 ## Tests
 
